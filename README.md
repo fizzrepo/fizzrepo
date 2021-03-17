@@ -8,7 +8,7 @@
 
 ````java
 String github = "SoupOrSoda"
-Player minecraftIgn Bukkit.getPlayer("HmmSoupOrSoda")
+Player minecraftIgn = Bukkit.getPlayer("HmmSoupOrSoda")
 String Discord = "SuperSoda#9999"
 ````
 
