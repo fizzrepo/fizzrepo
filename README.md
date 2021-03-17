@@ -6,10 +6,9 @@
 > I also own a minecraft server and I wish to custom code it. I primarily program in Java and Python.
 ````
 
-````bash
-> help --contact
-> github: SoupOrSoda
-> Minecraft: HmmSoupOrSoda
-> Discord: SuperSoda#9999
+````java
+String github = "SoupOrSoda"
+Player minecraftIgn Bukkit.getPlayer("HmmSoupOrSoda")
+String Discord = "SuperSoda#9999"
 ````
 
